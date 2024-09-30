@@ -8,4 +8,11 @@ public class Transaction {
     //Transation To
     //Transaction Value
     //Transaction Completed
+
+    //Transaction(ID, Date, Purpose, From, To, Value, Completed)
+    //showTransaction()
+    //orderTransaction(Value)
+    //revertTransaciton()
+
+
 }
